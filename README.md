@@ -3,6 +3,10 @@
 # Project Overview:
 This project analyzes customer transaction data for a supermarket chain with branches in Yangon, Naypyitaw, and other locations, focusing on identifying spending patterns, customer preferences, and payment trends. By examining variables such as transaction amounts, branch locations, payment methods, customer types, and product lines, this analysis aims to uncover valuable insights that can drive strategic decision-making.
 
+# Project Tools: Power BI
+
+# Data Model Relation : Many to many relationship (Bi-directional filteration)
+
 # Key Objectives
 Transaction Spending Analysis
 Evaluate the total spending per customer for each transaction, capturing the average and peak transaction values across different branches and customer demographics.
