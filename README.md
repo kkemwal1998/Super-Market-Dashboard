@@ -7,7 +7,7 @@ This project analyzes customer transaction data for a supermarket chain with bra
 Power BI
 
 # Data Model Relation : 
-Many to many relationship (Bi-directional filteration)
+One to one relationship (Bi-directional filteration)
 
 # Key Objectives
 Transaction Spending Analysis
